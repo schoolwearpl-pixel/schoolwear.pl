@@ -1,0 +1,15 @@
+{
+  "name": "PL스쿨웨어 대전점 교복 체촌 시스템",
+  "short_name": "PL스쿨웨어",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3050/3050253.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
